@@ -1,2 +1,3 @@
-# SimpleC-Compiler
-A compiler that uses Java and Anltr to interpret a programming language grammer and interprets whether code is type safe and creates a file of machine equivalent code
+# compiler-Brownboy0723
+compiler-Brownboy0723 created by GitHub Classroom
+Compiler Repo for compiler project in COP 5621
